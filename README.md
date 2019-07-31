@@ -4,7 +4,7 @@
 
 A (nearly) pure Ray Tracing Project for Python
 
-This work is based off the books **[Ray Tracing in One Weekend](https://github.com/RayTracing/raytracinginoneweekend)** and **[Ray Tracing: the Next Week](https://github.com/RayTracing/raytracingthenextweek)** by Peter Shirley but ported to Python 
+This work is based off the books **[Ray Tracing: the Next Week](https://github.com/RayTracing/raytracingthenextweek)** by Peter Shirley but ported to Python 
 
 #### To run, simply run pypy3 main.py or python main.py
 
